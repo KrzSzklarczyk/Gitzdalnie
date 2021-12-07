@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Zmiana pliku w galezi prostawersja
-=======
 Zmiana na galezi prosta wersja
 zmiana w klonie
->>>>>>> refs/remotes/origin/master
+zmiana w orginale
+
